@@ -1,0 +1,9 @@
+/* CSS declarations go here */
+/* CSS declarations go here */
+.selected{
+  background-color: yellow;
+}
+
+.remove, .decrement, .increment{
+  display: none;
+}
